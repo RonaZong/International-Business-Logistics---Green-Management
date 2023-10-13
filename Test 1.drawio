@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T08:17:38.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="OJYBKmU5DtnjOsiq8bsA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T08:57:32.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9BtbmKwKSt_bxFuvf0pi" version="22.0.4" type="github">
   <diagram name="第 1 页" id="0QWz2JUP9mQ6vMk_R8Q-">
-    <mxGraphModel>
+    <mxGraphModel dx="979" dy="1083" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-2" value="Inreda lokal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-3" value="Välja leverantörer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="83" y="-19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-4" value="Skaffa varor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="83" y="193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-6" value="Marknadsföra" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-7" value="Ta fram reklamblad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="367" y="123" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-8" value="Etablera skoaffär" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="173" y="-148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-9" value="Måla väggar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-10" value="Lägga ny matta" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-59" y="342" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-11" value="Skicka ut reklamblad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="363" y="266" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-12" value="Beställa skor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="83" y="123" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-13" value="Trycka reklam blad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="363" y="193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-14" value="Anlita byggfirma" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-15" value="Sätta upp vägghyllor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-59" y="414" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-16" value="Inviga butiken" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="222" y="-19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-17" value="Rekrytera" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="222" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-18" value="Utbilda personal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="222" y="196" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-19" value="Välja sortiment." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="83" y="52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-21" value="Riva ut gammal inredning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="198" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-22" value="Säkerställa finansiering" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="515" y="-26" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-23" value="Ordna personal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="222" y="123" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-24" value="Annonsera" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="367" y="52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-26" value="Iordningställa lokal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="-19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-27" value="Kontraktsskrivning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="508" y="49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-28" value="Anskaffa kassasystem" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="508" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-31" value="Skylta" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="628" y="52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94wJtheV5j1Y-eIjf-ck-33" value="Etablera en organisation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="328" y="-148" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
