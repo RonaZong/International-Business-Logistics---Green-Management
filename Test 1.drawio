@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T07:04:13.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HsYPUIsQVDT6gTb4oK85" version="22.0.4" type="github" pages="2">
-  <diagram name="第 1 页" id="0QWz2JUP9mQ6vMk_R8Q-">
-    <mxGraphModel dx="2243" dy="1291" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-10-19T10:22:55.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7er0gVRdS0zzV77OV8fQ" version="22.0.4" type="github" pages="2">
+  <diagram name="WBS" id="0QWz2JUP9mQ6vMk_R8Q-">
+    <mxGraphModel dx="1146" dy="1290" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,8 +85,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rSReMVvNxS3YqQk5viQj" name="Page-2">
-    <mxGraphModel dx="1433" dy="693" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="rSReMVvNxS3YqQk5viQj" name="Gantt chart">
+    <mxGraphModel dx="1167" dy="693" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
